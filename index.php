@@ -92,8 +92,8 @@ body {
                     <ul id="nav" class="main">
                         <li><a href="/web/20191222020721/http://drova-gatchina.ru/" class="active">Главная</a></li>
                         <li><a href="o_nas.php">О компании</a></li>
-						<li><a href="ceni.php">Цены</a></li>
-                		<li><a href="calculator.php">Калькулятор</a></li>
+												<li><a href="ceni.php">Цены</a></li>
+                				<li><a href="calculator.php">Калькулятор</a></li>
                         <li><a href="blog.php">Статьи</a></li>
                         <li><a href="contact.php">Контакты</a></li>
                     </ul>
