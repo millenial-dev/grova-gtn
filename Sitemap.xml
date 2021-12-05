@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+	<loc>http://drova-gatchina.ru/</loc>
+	<lastmod>2015-12-03T23:13:01+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://drova-gatchina.ru/o_nas.php</loc>
+	<lastmod>2015-12-03T23:13:03+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://drova-gatchina.ru/ceni.php</loc>
+	<lastmod>2015-12-03T23:13:03+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://drova-gatchina.ru/calculator.php</loc>
+	<lastmod>2015-12-03T23:13:04+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://drova-gatchina.ru/blog.php</loc>
+	<lastmod>2015-12-03T23:13:05+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://drova-gatchina.ru/contact.php</loc>
+	<lastmod>2015-12-03T23:13:06+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://drova-gatchina.ru/kak_kupit_drova_v_gatchinskom_raione.php</loc>
+	<lastmod>2015-12-03T23:13:06+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://drova-gatchina.ru/berezovie_drova_gatchina.php</loc>
+	<lastmod>2015-12-03T23:13:07+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+</urlset>
