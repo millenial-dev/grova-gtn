@@ -17,10 +17,10 @@ include("block/header.php");
          
                     <div class="grids">
                         <div class="grid-16 grid">
-						<br><br>
-                            Телефон: +7(921)342-24-54<br>
-							Email: info@drova-gatchina.ru<br><br>
-							<script type="text/javascript" charset="utf-8" src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=JR8L6cNJ46IkUlnOsAp2vuuxd1uQVtv1&width=900&height=500&lang=ru_RU&sourceType=constructor"></script>
+													<br><br>
+						              Телефон: +7(921)342-24-54<br>
+													Email: info@drova-gatchina.ru<br><br>
+													<script type="text/javascript" charset="utf-8" src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=JR8L6cNJ46IkUlnOsAp2vuuxd1uQVtv1&width=900&height=500&lang=ru_RU&sourceType=constructor"></script>
                         </div>
                         
  
